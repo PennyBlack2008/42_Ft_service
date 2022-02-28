@@ -21,7 +21,7 @@ reference : https://docs.docker.com/docker-for-mac/#kubernetes
 **3. Clone this repository.**
 
 ```sh
-git clone https://github.com/kohyounghwan/ft_services.git
+git clone https://github.com/pennyblack2008/ft_services.git
 cd ft_services
 ```
 
